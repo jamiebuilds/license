@@ -37,7 +37,7 @@ any of their subsidiaries:
 - "Canon Inc" (for working with ICE)
 - "Vermont State Colleges" (for working with ICE)
 - "Charter Communications"/"Spectrum"/"Time Warner Cable" (for working with ICE)
-- "LinkedIn" (for working with ICE)
+- "LinkedIn Corporation" (for working with ICE)
 - "United Parcel Service Co" (for working with ICE)
 - "Walmart Inc" (for abusive treatment of workers)
 - "Sears Holding Corporation" (for abusive treatment of workers)
