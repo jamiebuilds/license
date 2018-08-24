@@ -1,7 +1,26 @@
+### Motivation
+
+I build open source software to make the world a better place. To lower
+technological barriers for as many people as possible.
+
+However, over the last few years it has come to my attention that my software
+is being used for terrible things by corporations who are willing to step on
+their fellow humans.
+
+I cannot stomache this, it really hurts to see my software be used by
+corporations like this.
+
+So I'm taking my standard license (The MIT License) and I'm adding a clause
+which explicitly does not grant the license to a list of entities.
+
+I don't care if this is not "open source", it's the right thing for me to do.
+
+### License Text
+
 ```
 Copyright (c) Jamie Kyle
 
-This license is provided to everyone except for the following entities and
+This license is granted to everyone except for the following entities and
 any of their subsidiaries:
 
 - "Microsoft Corporation" (for working with ICE)
@@ -41,3 +60,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+**Have a suggestion for the license's denylist? Feel free to open a pull request**
