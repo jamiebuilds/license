@@ -43,6 +43,9 @@ any of their subsidiaries:
 - "Sears Holding Corporation" (for abusive treatment of workers)
 - "Apple Inc" (for abusive treatment of workers)
 - "Tyson Foods Inc" (for abusive treatment of workers)
+- "Target Corporation" (for union busting and anti-union propaganda)
+- "The H&M group" (for abusive treatment of workers)
+- "Tesla, Inc" (for abusive treatment of workers)
 
 MIT License
 
