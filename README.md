@@ -39,6 +39,10 @@ any of their subsidiaries:
 - "Charter Communications"/"Spectrum"/"Time Warner Cable" (for working with ICE)
 - "LinkedIn" (for working with ICE)
 - "United Parcel Service Co" (for working with ICE)
+- "Walmart Inc" (for abusive treatment of workers)
+- "Sears Holding Corporation" (for abusive treatment of workers)
+- "Apple Inc" (for abusive treatment of workers)
+- "Tyson Foods Inc" (for abusive treatment of workers)
 
 MIT License
 
