@@ -48,8 +48,8 @@ any of their subsidiaries:
 - "Tesla, Inc" (for abusive treatment of workers)
 - "Boston Public Schools" (for working with ICE)
 - "Hewlett Packard Enterprise" (for working with ICE)
-- "Salesforce" (for working with ICE)
--
+- "Salesforce" (for working with CBP)
+- "University of Maryland" (for working with ICE)
 
 MIT License
 
