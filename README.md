@@ -52,6 +52,8 @@ any of their subsidiaries:
 - "University of Maryland" (for working with ICE)
 - "Virginia Tech" (for working with ICE)
 - "University of Alabama Birmingham" (for working with ICE)
+"General Dynamics Corp" (for working with ICE)
+
 
 MIT License
 
