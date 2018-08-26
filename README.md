@@ -31,7 +31,7 @@ any of their subsidiaries:
 - "Thomson Reuters" (for working with ICE)
 - "Motorola Solutions" (for working with ICE)
 - "Deloitte Consulting LLP" (for working with ICE)
-- "John Hopkins University" (for working with ICE)
+- "Johns Hopkins University" (for working with ICE)
 - "Dell Inc" (for working with ICE)
 - "Xerox Corporation" (for working with ICE)
 - "Canon Inc" (for working with ICE)
@@ -49,6 +49,7 @@ any of their subsidiaries:
 - "Boston Public Schools" (for working with ICE)
 - "Hewlett Packard Enterprise" (for working with ICE)
 - "Salesforce" (for working with ICE)
+-
 
 MIT License
 
