@@ -50,6 +50,8 @@ any of their subsidiaries:
 - "Hewlett Packard Enterprise" (for working with ICE)
 - "Salesforce" (for working with CBP)
 - "University of Maryland" (for working with ICE)
+- "Virginia Tech" (for working with ICE)
+- "University of Alabama Birmingham" (for working with ICE)
 
 MIT License
 
