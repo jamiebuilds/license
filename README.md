@@ -47,6 +47,7 @@ any of their subsidiaries:
 - "The H&M group" (for abusive treatment of workers)
 - "Tesla, Inc" (for abusive treatment of workers)
 - "Boston Public Schools" (for working with ICE)
+- "Hewlett Packard Enterprise" (for working with ICE)
 
 MIT License
 
