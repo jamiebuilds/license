@@ -52,8 +52,26 @@ any of their subsidiaries:
 - "University of Maryland" (for working with ICE)
 - "Virginia Tech" (for working with ICE)
 - "University of Alabama Birmingham" (for working with ICE)
-"General Dynamics Corp" (for working with ICE)
-
+- "General Dynamics Corp" (for sketchy work with DHH)
+- "L.L.Bean" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Hobby Lobby" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Lending Tree" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "New Balance" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Papa Johns" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "TD Ameritrade-Scottrade" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Ultimate Fighting Championship" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "World Wrestling Entertainment" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Yuengling Brewery" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "MillerCoors" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "NASCAR" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Blue Moon Brewing Company" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Delta Airlines" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Forbes" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Johnson & Johnson" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Taco Bell" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "Uber" (for taking advantage of unioners / union strikes)
+- "Under Armour" (for openly endorsing or financially supporting the Trump campaign/administration)
+- "National Football League" (for fining players who peacefully protest police brutality against people of color in the US)
 
 MIT License
 
