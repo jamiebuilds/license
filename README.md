@@ -1,17 +1,14 @@
 ### Motivation
 
-I build open source software to make the world a better place. To lower
-technological barriers for as many people as possible.
+I build open source software to make the world a cooler place. To help people make cool software.
 
-However, over the last few years it has come to my attention that my software
-is being used for terrible things by corporations who are willing to step on
-their fellow humans.
+However, over the last few years it has come to my attention that dumb peeps have been priotitizing dumb stuff over cool software. Fuck em.
 
 I cannot stomach this, it really hurts to see my software be used by
-corporations like this.
+retards like this.
 
-So I'm taking my standard license (The MIT License) and I'm adding a clause
-which explicitly does not grant the license to a list of entities.
+So I'm taking some dumbfck's licens and I'm adding a clause
+which explicitly does not grant the license to idiots.
 
 I don't care if this is not "open source", it's the right thing for me to do.
 
@@ -21,33 +18,11 @@ I don't care if this is not "open source", it's the right thing for me to do.
 Copyright (c) Jamie Kyle
 
 This license is granted to everyone except for the following entities and
-any of their subsidiaries:
+any of their supporters:
 
-- "Microsoft Corporation" (for working with ICE)
-- "Palantir Technologies" (for working with ICE)
-- "Amazon.com, Inc." (for abusive treatment of workers and for working with ICE)
-- "Northeastern University" (for working with ICE)
-- "Ernst & Young" (for working with ICE)
-- "Thomson Reuters" (for working with ICE)
-- "Motorola Solutions" (for working with ICE)
-- "Deloitte Consulting LLP" (for working with ICE)
-- "John Hopkins University" (for working with ICE)
-- "Dell Inc" (for working with ICE)
-- "Xerox Corporation" (for working with ICE)
-- "Canon Inc" (for working with ICE)
-- "Vermont State Colleges" (for working with ICE)
-- "Charter Communications"/"Spectrum"/"Time Warner Cable" (for working with ICE)
-- "LinkedIn Corporation" (for working with ICE)
-- "United Parcel Service Co" (for working with ICE)
-- "Walmart Inc" (for abusive treatment of workers)
-- "Sears Holding Corporation" (for abusive treatment of workers)
-- "Apple Inc" (for abusive treatment of workers)
-- "Tyson Foods Inc" (for abusive treatment of workers)
-- "Target Corporation" (for union busting and anti-union propaganda)
-- "The H&M group" (for abusive treatment of workers)
-- "Tesla, Inc" (for abusive treatment of workers)
+- Tards
 
-MIT License
+'COOL DUDE' License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
