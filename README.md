@@ -7,7 +7,7 @@ However, over the last few years it has come to my attention that my software
 is being used for terrible things by corporations who are willing to step on
 their fellow humans.
 
-I cannot stomache this, it really hurts to see my software be used by
+I cannot stomach this, it really hurts to see my software be used by
 corporations like this.
 
 So I'm taking my standard license (The MIT License) and I'm adding a clause
