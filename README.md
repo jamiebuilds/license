@@ -47,11 +47,12 @@ any of their subsidiaries:
 - "The H&M group" (for abusive treatment of workers)
 - "Tesla, Inc" (for abusive treatment of workers)
 - "Facebook Inc" (for playing a “determining role” in the ongoing ethnic cleansing of the Rohingya in Myanmar)
- - "Alphabet Inc" (for working with the Department of Defense)
- - "Raytheon Company" (for working with the Department of Defense)
- - "Lockheed Martin Corperation" (for working with the Department of Defense)
- - "The Boeing Company" (For working witht he Department of Defense)
- - "CloudFlare, Inc" (for hosting white supremacist and neo-nazi content)
+- "Alphabet Inc" (for working with the Department of Defense)
+- "Raytheon Company" (for working with the Department of Defense)
+- "Lockheed Martin Corperation" (for working with the Department of Defense)
+- "The Boeing Company" (For working witht he Department of Defense)
+- "CloudFlare, Inc" (for hosting white supremacist and neo-nazi content)
+- "Twitter, Inc" (for hosting white supremacist and neo-nazi content)
 
 MIT License
 
