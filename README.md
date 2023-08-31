@@ -23,6 +23,7 @@ Copyright (c) Jamie Kyle
 This license is granted to everyone except for the following entities and
 any of their subsidiaries:
 
+- "the United States Department of Homeland Security" (for severe mistreatment asylum seekers and)
 - "Microsoft Corporation" (for working with ICE)
 - "Palantir Technologies" (for working with ICE)
 - "Amazon.com, Inc." (for abusive treatment of workers and for working with ICE)
